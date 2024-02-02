@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891298650823",
+    "project_id": "goblind-2",
+    "storage_bucket": "goblind-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891298650823:android:ccaf87e3a2dc53efaffce2",
+        "android_client_info": {
+          "package_name": "com.codenust.go_blind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgD-UfDpP5ygpX0x5-XoCtg6UwRLqqESU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
